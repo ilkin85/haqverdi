@@ -1,0 +1,13 @@
+package com.example.haqverdi;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class HaqverdiApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(HaqverdiApplication.class, args);
+	}
+
+}
